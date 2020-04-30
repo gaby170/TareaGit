@@ -5,6 +5,7 @@ public class CambioMoneda
 {
      public static void main(String[] args) 
      {
+        System.out.println("prueba");
         Banco caja1 = new Banco(100, "EURO");
         Banco caja2 = new Banco(100, "LIBRA");
         caja1.cambio(((float)0.5));

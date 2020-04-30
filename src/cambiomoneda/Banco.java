@@ -47,5 +47,9 @@ public class Banco
     public float Dinero()
     {
         return(dinero);
+        
     }
+    
+    
+    
 }
